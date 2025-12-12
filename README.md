@@ -8,7 +8,7 @@
 https://vandhana-portal-frontend.vercel.app/ </br>
 
 Frontend Repository = https://github.com/Advik-Gupta/Vandhana-Portal-Frontend </br>
-AI Repository = https://github.com/Advik-Gupta/Vandhana-Image-API
+Backend Repository = https://github.com/Advik-Gupta/Vandhana-Image-Backend
 
 ## ⚙️ Tech Stack:
 
